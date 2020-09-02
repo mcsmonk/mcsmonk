@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 </div>
+
+<div align=left>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcsmonk)](https://hits.seeyoufarm.com)
+</div>
 -->
 
 
@@ -19,9 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate graduate student from Korea of Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcsmonk" alt="mcsmonk" /> </p>
-<div align=left>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcsmonk)](https://hits.seeyoufarm.com)
-</div>
+
 
 - 📫 How to reach me **sunghyunjin@korea.ac.kr**
 
