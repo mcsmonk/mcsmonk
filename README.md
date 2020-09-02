@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sunghyun Jin</h1>
 <h3 align="center">A passionate graduate student from Korea of Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcsmonk" alt="mcsmonk" /> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcsmonk)](https://hits.seeyoufarm.com)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcsmonk" alt="mcsmonk" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcsmonk)](https://hits.seeyoufarm.com)
 
 - 📫 How to reach me **sunghyunjin@korea.ac.kr**
 
