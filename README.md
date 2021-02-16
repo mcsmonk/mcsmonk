@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/nginsngin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nginsngin" height="30" width="30" /></a>
 </p>
 
+<!--
 ![img-seminar](https://mcsmonk.github.io/assets/img/seminar.jpg)
+-->
+<img src="https://mcsmonk.github.io/assets/img/seminar.jpg" width="300" alt="In seminar">
