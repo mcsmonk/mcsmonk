@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sunghyunjin@korea.ac.kr**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsmonk&show_icons=true" alt="mcsmonk" /></p>
-
 <p align="center">
 <a href="https://twitter.com/nginsngin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nginsngin" height="30" width="30" /></a>
 </p>
